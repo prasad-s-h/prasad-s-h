@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasad-s-h
 - 👀 I’m interested in Node.js, Express, MongoDB, AWS
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Node.js, Express, MongoDB
+- 💞️ I’m looking to collaborate on Node.js, Express, MongoDB and AWS
 - 📫 How to reach me 📧 prasads367@gmail.com
 
 <!---
